@@ -10,3 +10,4 @@ APPROACH
 5.     Building the Client GUI
 6.     Adding encryption and decryption functions
 
+For more information, check MultiUserChat.pdf 
